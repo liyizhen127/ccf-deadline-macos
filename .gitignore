@@ -1,0 +1,17 @@
+.build/
+.swiftpm/
+.DS_Store
+*.xcuserstate
+dist/
+work/
+*.app/
+*.zip
+*.dSYM/
+*.log
+.env
+.env.*
+!.env.example
+*.p12
+*.mobileprovision
+preferences.json
+conferences.json
